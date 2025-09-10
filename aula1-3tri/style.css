@@ -1,1 +1,20 @@
+h1:: before {
+  content: "Inicio";
+  color: red;
+}
+.destaque::after{
+  content:"FIM";
+  color:green;
+}
+
+ul li :: {
+  color: orange;
+}
+:: selection {
+  background-color: gray;
+}
+
+input::placeholder{
+  color: purple;
+}
 
