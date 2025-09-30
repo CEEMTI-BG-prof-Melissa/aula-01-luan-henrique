@@ -1,1 +1,9 @@
+div{
+  padding: 50px;
+  margin: 10x;
+}
 
+.borda{
+  border: 10px dashed black;
+  
+}
