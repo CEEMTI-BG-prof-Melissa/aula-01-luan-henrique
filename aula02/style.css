@@ -12,65 +12,65 @@ div{
 }
 
 #bloco2{
-  background-image: url('messi.jpg');
+  background-image: url('messi.jpeg');
   background-repeat: repeat;
 }
 
 #bloco3{
-  background-image: url('messi.jpg');
+  background-image: url('messi.jpeg');
   background-repeat: no-repeat;
   background-position: center;
 }
 
 #bloco4{
-  background-image: url('messi.jpg');
+  background-image: url('messi.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #bloco5{
-  background-image: url('messi.jpg');
+  background-image: url('messi.jpeg');
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #bloco6{
-  background-image: url('messi.jpg');
+  background-image: url('messi.jpeg');
   background-repeat: no-repeat;
   background-origin: padding-box;
 }
 
 #bloco7{
-  background-image: url('messi.jpg');
+  background-image: url('messi.jpeg');
   background-repeat: no-repeat;
   background-origin: border-box;
 }
 
 #bloco8{
-  background-image: url('messi.jpg');
+  background-image: url('messi.jpeg');
   background-repeat: no-repeat;
   background-origin: content-box;
 }
 
 #bloco9{
-  background-image: url('messi.jpg');
+  background-image: url('messi.jpeg');
   background-repeat: no-repeat;
   background-clip: padding-box;
 }
 
 #bloco10{
-  background-image: url('messi.jpg');
+  background-image: url('messi.jpeg');
   background-repeat: no-repeat;
   background-clip: border-box;
 }
 
 #bloco11{
-  background-image: url('messi.jpg');
+  background-image: url('messi.jpeg');
   background-repeat: no-repeat;
   background-clip: content-box;
 }
 
 #bloco12{
-  background: lightblue url('messi.jpg') center/cover no-repeat;
+  background: lightblue url('messi.jpeg') center/cover no-repeat;
 }
